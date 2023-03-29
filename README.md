@@ -10,7 +10,7 @@ A simple calendar application to schedule your work day.
 
 ## Installation
 
-1. Clone the repository: git clone
+1. Clone the repository: git clone https://github.com/josejrod07/workday-scheduler.git
 2. Open index.html in your web browser.
 
 ## Usage
